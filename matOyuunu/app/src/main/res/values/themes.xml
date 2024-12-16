@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MatOyuunu" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#079FAB</item>
+        <item name="colorPrimaryVariant">#079FAB</item>
+    </style>
+
+    <style name="Theme.MatOyuunu" parent="Base.Theme.MatOyuunu" />
+</resources>
